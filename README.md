@@ -2,6 +2,7 @@
 
 | Day | Date    | Studied                                                                                                       | Practiced                    |
 | --- | -----   | ---                                                                                                           | ---                          |
+| 005 | May, 20 | DI, Providers, Application Ref Angular                                                                   |  
 | 004 | May, 17 | SOLID, DRY, KISS, YAGNI (Theory)                                                                   |                              |
 | 003 | May, 15 | Web components, shadow DOM, custom elements                                                                   |                              |
 | 002 | May, 14 |                                                                                                               | Codewars exercises done      |
