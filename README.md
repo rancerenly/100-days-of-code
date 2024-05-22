@@ -2,7 +2,7 @@
 
 | Day | Date    | Studied                                                                                                       | Practiced                    |
 | --- | -----   | ---                                                                                                           | ---                          |
-| 005 | May, 20 | Vite                                                                                                          | configure project            |
+| 007 | May, 22 | Vite                                                                                                          | configure project            |
 | 006 | May, 21 | Framework Lit (Custom Element, Rendering)                                                                     | write code LitElement        |
 | 005 | May, 20 | DI, Providers, Application Ref Angular                                                                        |                              |
 | 004 | May, 17 | SOLID, DRY, KISS, YAGNI (Theory)                                                                              |                              |
